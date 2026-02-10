@@ -44,6 +44,7 @@ class Bmw extends BaseCar implements Electrics {
     void getInfo() {
         super.getInfo();
         System.out.println("BMW - X7");
+
     }
 
     @Override
